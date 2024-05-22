@@ -11,7 +11,7 @@ services:
     volumes:
       - antmedia_vol:/usr/local/antmedia/
     environment:
-      - AntMediaServer: 'ant-media-server-community-2.9.0.zip'      
+      - AntMediaServer: "ant-media-server-community-2.9.0.zip"
 #volumes:
 #  antmedia_vol:
 #    external: true
